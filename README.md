@@ -14,4 +14,5 @@
 - [x] Dia 12 - Busca linear utilizando listas
 - [x] Dia 13 - Funcao fatorial 
 - [x] Dia 14 - Calculador de numeros primos
-- [ ] Dia 15
+- [x] Dia 15 - Fibonnaci
+- [x] Dia 16 - Anagramas
