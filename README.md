@@ -17,4 +17,4 @@
 - [x] Dia 15 - Fibonnaci
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Criamos uma funcao que verifica Palíndromos
-- [ ] Dia 18 - 
+- [x] Dia 18 - Contabilizar palavras de uma string
