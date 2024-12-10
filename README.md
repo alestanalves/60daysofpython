@@ -18,4 +18,5 @@
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Criamos uma funcao que verifica Palíndromos
 - [x] Dia 18 - Contabilizar palavras de uma string
-- [ ] Dia 19 - Calcular media de notas
+- [x] Dia 19 - Calcular media de notas
+- [x] Dia 20 - Matriz transposta
