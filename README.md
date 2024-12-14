@@ -24,3 +24,4 @@
 - [x] Dia 22 - Calculadora de IMC
 - [x] Dia 23 - Jogo da adivinhacao em Python
 - [x] Dia 24 - Criamos uma tabuado em Python
+- [x] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
