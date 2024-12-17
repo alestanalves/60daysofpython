@@ -25,3 +25,5 @@
 - [x] Dia 23 - Jogo da adivinhacao em Python
 - [x] Dia 24 - Criamos uma tabuado em Python
 - [x] Dia 25 - Criamos um codigo que gera 10 numeros aleatorios
+- [x] Dia 26 - Criando uma funcao para escrever em .txt
+- [x] Dia 27 - Conversor de temperatura
