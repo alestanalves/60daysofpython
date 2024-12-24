@@ -29,3 +29,5 @@
 - [x] Dia 27 - Conversor de temperatura
 - [x] Dia 28 - Cronometro em Python
 - [x] Dia 29 - Gerador de data e hora atual
+- [x] Dia 30 - Cronometro de 10 segundos
+- [x] Dia 31 - Calculo de raiz quadrada
