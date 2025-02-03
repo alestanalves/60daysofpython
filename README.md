@@ -31,3 +31,14 @@
 - [x] Dia 29 - Gerador de data e hora atual
 - [x] Dia 30 - Cronometro de 10 segundos
 - [x] Dia 31 - Calculo de raiz quadrada
+- [x] Dia 32 - Lançamento de dados
+- [x] Dia 33 - Contar ocorrências de palavras em um texto
+- [x] Dia 34 - Manipulando arquivos json
+- [x] Dia 35 - Requests
+- [x] Dia 36 - Crawler
+- [x] Dia 37 - Manipulando arquivos csv
+- [x] Dia 38 - IA ChatGPT
+- [x] Dia 39 - Grafico no terminal
+- [x] Dia 40 - programacao orientada a objetos
+- [x] Dia 41 - Heranca em Python
+- [x] Dia 42 - Modulo OS em Python
