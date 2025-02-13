@@ -42,3 +42,6 @@
 - [x] Dia 40 - programacao orientada a objetos
 - [x] Dia 41 - Heranca em Python
 - [x] Dia 42 - Modulo OS em Python
+- [x] Dia 43 - Lidando com erros
+- [x] Dia 44 - Regex
+- [x] Dia 45 - Multi tarefas com threads
