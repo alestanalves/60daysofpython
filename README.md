@@ -49,3 +49,4 @@
 - [x] Dia 47 - Medindo tempo de execucao
 - [x] Dia 48 - Yield em Python
 - [x] Dia 49 - Criando e manipulando banco de dados SQLite
+- [x] Dia 50 - Automatizando clicks com Python
