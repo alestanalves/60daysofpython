@@ -51,3 +51,4 @@
 - [x] Dia 49 - Criando e manipulando banco de dados SQLite
 - [x] Dia 50 - Automatizando clicks com Python
 - [x] Dia 51 - Web Scraping com Python
+- [x] Dia 52 - Criando gráficos com Python
