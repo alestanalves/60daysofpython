@@ -52,4 +52,5 @@
 - [x] Dia 50 - Automatizando clicks com Python
 - [x] Dia 51 - Web Scraping com Python
 - [x] Dia 52 - Criando gráficos com Python
-- [ ] Dia 53 - Análise de imagem com opencv
+- [x] Dia 53 - Análise de imagem com opencv
+- [x] Dia 54 - Análise de dados com Pandas
